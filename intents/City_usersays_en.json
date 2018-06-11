@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cb4b663c-7161-46c2-8bcf-eedb9a7289fc",
+    "data": [
+      {
+        "text": "Show me the weather of ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "geocity",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528631105
+  },
+  {
+    "id": "c191f3f7-1a31-45ef-acac-9aad2583d353",
+    "data": [
+      {
+        "text": "London",
+        "alias": "geocity",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528631105
+  },
+  {
+    "id": "375a19c5-80d3-499d-9171-95fea9cd5892",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "geocity",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528631105
+  }
+]

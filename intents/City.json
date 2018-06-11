@@ -1,0 +1,43 @@
+{
+  "id": "79ff55e4-3b49-40b7-a9af-60462b9502c2",
+  "name": "City",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c742ebbd-7f5b-41d3-ad62-90ef9fdc57a5",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geocity",
+          "value": "$geocity",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Check the weather of city"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528631105,
+  "fallbackIntent": false,
+  "events": []
+}

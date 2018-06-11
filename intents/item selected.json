@@ -1,0 +1,33 @@
+{
+  "id": "1b7e73d7-fe2c-49f7-a061-881b63e95be3",
+  "name": "item selected",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.selected",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Webhook failed"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528641296,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}
